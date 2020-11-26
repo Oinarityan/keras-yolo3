@@ -1,0 +1,4 @@
+Regulatory_sign_triangle
+Speed_sign
+Prohibition_sign
+Direction_sign
